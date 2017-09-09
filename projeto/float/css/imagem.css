@@ -1,0 +1,19 @@
+body {
+  font-size: 26px;
+}
+
+
+img {
+	margin-right: 10px;
+}
+
+.flutua-direita {
+	float: right;
+}
+
+.flutua-esquerda {
+	float: left;
+}
+.clear-float{
+	clear: both;
+}

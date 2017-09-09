@@ -1,0 +1,23 @@
+/*
+#titulo {
+	color: blue;
+}
+
+.introducao {
+	color: red;
+}
+
+.missao {
+	font-family: Arial;
+}
+
+//seletores descendentes
+article .missao strong {
+	color: green;
+}
+*/
+
+/*seletores filhos */
+article > .importante > strong {
+	color: red;
+}
